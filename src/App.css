@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.movie {
+  display: flex;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    justify-content: space-evenly;
+}
+img.card-img {
+  width: 550px;
+  margin: 0 auto;
+}
+.fa-star {
+  color: gold;
+}
